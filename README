@@ -64,7 +64,7 @@ git pull upstream master
 
 New branch:
 
-git checkout -b my_dwm
+git checkout -b my_dwm  # for first time only, otherwise git checkout my_dwn
 git push origin master
 git push origin master my_dwm
 git push origin my_dwm
